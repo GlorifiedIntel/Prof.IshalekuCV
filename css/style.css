@@ -2377,8 +2377,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #09aa90;
-  border-color: #089e86;
+  background-color: #f3c90c;
+  border-color: #f3c90c;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -9983,5 +9983,22 @@ h6,
   list-style-type: none;
 }
 
-/* About Ishaleku */
+/* Ishaleku */
+.header {
+  background-color: #004C45;
+  
+}
 
+.logo {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.nav {
+  font-size: 19px;
+  color: var(--yellow);
+}
+
+.experience {
+  margin-bottom: 30px;
+}
